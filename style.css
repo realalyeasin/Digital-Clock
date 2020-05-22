@@ -1,0 +1,32 @@
+body{
+    background-color:yellow;
+}
+body {
+    background: black;
+}
+
+.clock {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 07px;
+	border-top:5px solid white;
+	border-bottom:5px solid white;
+	padding:10px;
+}
+h1{
+	color:white;
+	font-family: monospace;
+	position: absolute;
+    left: 50%;
+	top:15%;
+	letter-spacing: 07px;
+	transform: translateX(-50%);
+	border:3px solid white;
+	padding:10px;
+	
+}
